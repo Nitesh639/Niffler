@@ -1,6 +1,6 @@
 {
-	"DICOMHome": "/opt/data/new-study",
-	"OutputDirectory": "/opt/data/new-study/root",
+	"DICOMHome": "set1",
+	"OutputDirectory": "output",
 	"Depth": 0,
 	"SplitIntoChunks": 1,
 	"PrintImages": true,
